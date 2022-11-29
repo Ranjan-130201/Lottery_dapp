@@ -3,13 +3,9 @@
 # Dependencies
 node_modules
 client/node_modules
-.pnp
-.pnp.js
 
 # Production
 build
-client/src/contracts
-client/*/src/contracts
 
 # Testing
 coverage
